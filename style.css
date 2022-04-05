@@ -1,0 +1,24 @@
+#kapal{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    background-image: url(kapal.png);
+    background-size: cover;
+    bottom: 10px;
+}
+
+.musuh{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    background-image: url(musuh.png);
+    background-size: cover;
+    top: 0px;
+}
+
+.peluru{
+    height: 10px;
+    width: 5px;
+    position: fixed;
+    background-color: blue;
+}
